@@ -1,0 +1,29 @@
+Test case, Copy Constructor: same members, same size, different pointers (deep copy):
+Copy constructor passed!
+
+Test case, Copy Constructor: 1 member:
+Copy constructor passed!
+
+Test case, Copy Constructor: zero members:
+Copy constructor passed!
+
+Test case, Copy Constructor: table size less than 0:
+Copy constructor passed!
+
+Measuring the efficiency of insertion functionality:
+Inserting 1000000 members took 6416 clock ticks (0.006416 seconds)!
+Inserting 4000000 members took 26758 clock ticks (0.026758 seconds)!
+Inserting 16000000 members took 98133 clock ticks (0.098133 seconds)!
+Inserting 64000000 members took 374367 clock ticks (0.374367 seconds)!
+
+Here is an example of a table:
+i i r e l o i b f p 
+# u g e r q s h k m 
+x x # e q g w n e m 
+z m g g c x # q m w 
+k h f p r z y m o k 
+e i y o j t r c n s 
+s m u # a # k a f q 
+m l j g t l c x r s 
+# h r t s y c c u x 
+v u # v y z k x v j 
